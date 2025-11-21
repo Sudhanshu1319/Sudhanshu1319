@@ -1,139 +1,117 @@
-🌟 Sudhanshu Khichade
-👨‍💻 Junior Software Developer | AI Automation Engineer | Full-Stack Developer
+<!-- Banner / Header -->
+<h1 align="center">🌟 Sudhanshu Khichade</h1>
+<h3 align="center">👨‍💻 Junior Software Developer | AI Automation Engineer | Full-Stack Developer</h3>
 
-🚀 I build AI-driven automation systems, full-stack applications, and intelligent pipelines that solve real-world problems.
-I love combining AI + automation + solid backend/frontend engineering to deliver powerful, production-ready systems.
+<p align="center">
+  <i>Building AI-powered systems, automation workflows, and scalable full-stack applications.</i>
+</p>
 
-👨‍💻 About Me
+---
 
-Junior Software Developer working across AI automation + backend + frontend + DevOps
+<!-- Badges Section -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Automation-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/FullStack-Developer-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Node.js-Backend-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/OpenAI-Developer-red?style=for-the-badge">
+</p>
 
-Skilled in React, Node.js, Express, Python, SQL, Java, n8n, LangChain, OpenAI
+---
 
-Experience building voice AI agents, OCR systems, dashboards, API integrations, and data pipelines
+## 🚀 About Me
+- Junior Software Developer working across **AI automation + backend + frontend + DevOps**
+- Skilled in **React, Node.js, Express, Python, SQL, Java, n8n, LangChain, OpenAI**
+- Experience building **Voice AI agents, OCR systems, dashboards, API integrations**
+- Deploy applications on **Hostinger VPS (Ubuntu 24.04)** using Node, React & Flask
+- Strong knowledge of **AWS, Firebase, MongoDB, Supabase, Redis, Azure Storage, Shopify API, Exotel**
+- I love building software that is **fast, intelligent, and scalable**
 
-Deployed multiple projects on Hostinger VPS (Ubuntu 24.04)
+---
 
-Strong knowledge of AWS, Firebase, MongoDB, Supabase, Redis, Azure Storage, Shopify API, Exotel
+# 🔥 Company Projects (Highlights)
 
-Passionate about building systems that are fast, scalable, and intelligent
+### 🎯 **Velzon Dashboard Upgrade**
+- Upgraded complete architecture → **Node.js LTS + AWS SDK v3**
+- Refactored React ecosystem (Redux, ApexCharts, ECharts)
+- Added TL/Analyst dashboards, implemented new score logic
+- Improved UI speed, accuracy, and load performance
 
-🔥 Major Projects
-🚀 Company Work
-🟣 Velzon Dashboard Upgrade
+---
 
-Upgraded full dashboard architecture to latest Node.js LTS + AWS SDK v3
+### 🤖 **Voice AI Automation (Exotel + OpenAI + n8n)**
+- AI agent answering live calls
+- STT → LLM → Data → TTS pipeline
+- Fetches info from **Supabase/Excel** and responds automatically
 
-Refactored large React codebase with Redux, ApexCharts, ECharts, Bootstrap
+---
 
-Added new analyst & TL dashboards, performance views, updated score logic, and secure APIs
+### 🧾 **OCR → Google Sheets Automation**
+- Extract hotel name & total using **Google Cloud Vision**
+- n8n workflow to auto-update into Google Sheets
+- Replaced manual data entry completely
 
-Improved overall speed, accuracy, and UI performance
+---
 
-🎙️ Voice AI Automation (Exotel + OpenAI + n8n)
+### 💬 **Inscribe — One Dialogic**
+- Implemented LLM-powered dialog flows
+- Built conversational APIs, context memory & fallback logic
 
-Built an AI agent that answers customer calls using Exotel telephony
+---
 
-Integrated STT → LLM → structured data lookup → TTS
+# 🧪 Personal Projects
 
-Fetches data from Supabase / Excel to answer customer queries
+### ⚡ Auto-Resolve — Smart Ticket Triage (AI Project)
+- GPT-4o + LangChain + Pinecone  
+- Ticket classification, sentiment, auto replies  
+- Optional human review system  
 
-Automated end-to-end workflow using n8n + OpenAI
+---
 
-🧾 OCR → Google Sheets Automation (Hotel Bill Parser)
+### 🌐 Sai Baba Website (Hostinger VPS)
+- Full site: Events, Donations, Live Aarti, Admin Panel  
+- Stack: React + Node.js + Express + Flask  
+- Hosted on **Hostinger VPS**
 
-Built OCR automation using Google Cloud Vision API + n8n
+---
 
-Extracted hotel name & total amount from images
+# 🧰 Tech Stack
 
-Cleaned & structured data → auto inserted into Google Sheets
+### Languages  
+`Python` • `JavaScript` • `SQL` • `Java`
 
-Eliminated manual data entry efforts
+### AI & Automation  
+`OpenAI` • `LangChain` • `n8n` • `Cohere` • `Exotel`
 
-💬 Inscribe – One Dialogic (Conversational Layer)
+### Backend  
+`Node.js` • `Express.js` • `Flask` • `REST APIs`
 
-Implemented context-aware dialog logic for LLM-powered workflows
+### Frontend  
+`React` • `Redux` • `Bootstrap` • `ApexCharts` • `ECharts` • `Velzon`
 
-Created APIs for message routing, conversation persistence, and fallback safety
+### Databases  
+`SQL Server` • `MongoDB` • `Firebase` • `Supabase` • `Redis`
 
-Improved multi-turn reasoning and reduced hallucinations
+### Cloud & DevOps  
+`AWS` • `Azure` • `Hostinger VPS` • `PM2` • `Docker`
 
-🔌 API Integrations & Data Engineering
+---
 
-Worked with Shopify API, Firebase Admin, Redis caching, AWS S3, Azure Blob
+# 📊 GitHub Analytics
 
-Optimized SQL queries (SQL Server), improving retrieval time significantly
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudhanshu1319&show_icons=true&theme=radical" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu1319&layout=compact&theme=radical" height="160px"/>
+</p>
 
-Built Python automation scripts and backend utilities
+---
 
-🟦 Personal Projects
-⚡ Auto-Resolve — Smart Ticket Triage & Instant Reply System
+# 🌐 Connect With Me
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=for-the-badge"></a>
+</p>
 
-(Personal AI Project)
+---
 
-End-to-end LLM system using GPT-4o + LangChain + Pinecone/Chroma
-
-Ticket classification → sentiment detection → smart reply generation
-
-Optional human review mode
-
-Full microservice structure (API + embeddings + prompt logic)
-
-🌐 Sai Baba Website (Hostinger VPS Deployment)
-
-(Full-Stack Project)
-
-Built full temple website with:
-✔ Live Aarti streaming
-✔ Donations
-✔ Event management + admin panel
-✔ Volunteer forms
-
-Tech stack: React, Node.js, Express, Flask
-
-Hosted on Hostinger VPS (Ubuntu 24.04)
-
-🖼️ Image Integrity Inspector (AI Project)
-
-Used ELA + CNN models to detect image manipulation
-
-Implemented classification pipeline with Python + TensorFlow
-
-🛠️ Skills & Tech Stack
-Languages
-
-Python • JavaScript • SQL • Java
-
-AI & Automation
-
-OpenAI • LangChain • n8n • Cohere • Exotel • Deep Learning
-
-Frontend
-
-React • Redux • Bootstrap • RSuite • ApexCharts • ECharts • Velzon
-
-Backend
-
-Node.js • Express.js • Flask • REST APIs • AWS SDK v3
-
-Databases
-
-SQL Server • MongoDB • Redis • Firebase • Supabase • Mongo Atlas
-
-Cloud & DevOps
-
-AWS (S3, EC2) • Azure Storage • Hostinger VPS • Docker • PM2
-
-Tools
-
-Git • Postman • Ngrok • VS Code • Python automation
-
-📈 GitHub Stats
-
-🌐 Connect with Me
-
-💼 LinkedIn: Add your link
-🌐 Portfolio: Coming soon
-📩 Email: Add your email
-
-✨ “I don’t just write code — I automate workflows, solve real problems, and build intelligent systems.”
+<h3 align="center">✨ “I don’t just write code — I automate workflows & build intelligent systems.” ✨</h3>
