@@ -1,117 +1,112 @@
-<!-- Banner / Header -->
-<h1 align="center">🌟 Sudhanshu Khichade</h1>
-<h3 align="center">👨‍💻 Junior Software Developer | AI Automation Engineer | Full-Stack Developer</h3>
+<h1 align="center">👋 Hi, I'm Sudhanshu Khichade</h1>
+<h3 align="center">Junior Software Developer | AI Automation Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  <i>Building AI-powered systems, automation workflows, and scalable full-stack applications.</i>
-</p>
-
----
-
-<!-- Badges Section -->
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Automation-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/FullStack-Developer-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Node.js-Backend-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/OpenAI-Developer-red?style=for-the-badge">
+  I build AI-powered automation systems, conversational workflows, and scalable full-stack applications.  
+  Passionate about turning complex workflows into simple, intelligent solutions.
 </p>
 
 ---
 
 ## 🚀 About Me
-- Junior Software Developer working across **AI automation + backend + frontend + DevOps**
+- Junior Software Developer with experience in **AI automation, backend engineering, and full-stack development**
 - Skilled in **React, Node.js, Express, Python, SQL, Java, n8n, LangChain, OpenAI**
-- Experience building **Voice AI agents, OCR systems, dashboards, API integrations**
-- Deploy applications on **Hostinger VPS (Ubuntu 24.04)** using Node, React & Flask
-- Strong knowledge of **AWS, Firebase, MongoDB, Supabase, Redis, Azure Storage, Shopify API, Exotel**
-- I love building software that is **fast, intelligent, and scalable**
+- Built **Voice AI systems, OCR automation workflows, LLM dialog systems**
+- Deploy applications on **Hostinger VPS (Ubuntu 24.04)**
+- Strong understanding of **Cloud, APIs, and Modern System Design**
 
 ---
 
-# 🔥 Company Projects (Highlights)
+## 🛠 Tech Stack
 
-### 🎯 **Velzon Dashboard Upgrade**
-- Upgraded complete architecture → **Node.js LTS + AWS SDK v3**
-- Refactored React ecosystem (Redux, ApexCharts, ECharts)
-- Added TL/Analyst dashboards, implemented new score logic
-- Improved UI speed, accuracy, and load performance
+### **Languages**
+`Python` • `JavaScript` • `SQL` • `Java`
+
+### **AI & Automation**
+`OpenAI` • `LangChain` • `n8n` • `Cohere` • `Exotel`
+
+### **Frontend**
+`React` • `Redux` • `Bootstrap` • `RSuite` • `ApexCharts` • `ECharts`
+
+### **Backend**
+`Node.js` • `Express.js` • `Flask` • `REST APIs`
+
+### **Databases**
+`SQL Server` • `MongoDB` • `Firebase` • `Supabase` • `Redis`
+
+### **Cloud & DevOps**
+`AWS` • `Azure` • `Hostinger VPS` • `PM2` • `Docker`
 
 ---
+
+# 💼 Company Work (Professional)
 
 ### 🤖 **Voice AI Automation (Exotel + OpenAI + n8n)**
-- AI agent answering live calls
-- STT → LLM → Data → TTS pipeline
-- Fetches info from **Supabase/Excel** and responds automatically
+- Developed intelligent voice assistant pipeline:
+  - Exotel → Speech-to-Text → OpenAI → Data lookup → Text-to-Speech
+- Automated responses using real-time data from **Supabase/Excel**
+- Reduced manual customer service workload
 
 ---
 
 ### 🧾 **OCR → Google Sheets Automation**
-- Extract hotel name & total using **Google Cloud Vision**
-- n8n workflow to auto-update into Google Sheets
-- Replaced manual data entry completely
+- Built automated bill-reading system using:
+  - **Google Cloud Vision + n8n**
+- Extracted:
+  - Hotel name  
+  - Total amount  
+- Auto-inserted structured data into Google Sheets
 
 ---
 
-### 💬 **Inscribe — One Dialogic**
-- Implemented LLM-powered dialog flows
-- Built conversational APIs, context memory & fallback logic
+### 💬 **Inscribe — Dialogic Conversational System**
+- Built LLM-powered dialog flows
+- Added context memory + smart fallback logic
+- Integrated API pipelines for consistent multi-turn responses
 
 ---
 
 # 🧪 Personal Projects
 
-### ⚡ Auto-Resolve — Smart Ticket Triage (AI Project)
-- GPT-4o + LangChain + Pinecone  
-- Ticket classification, sentiment, auto replies  
-- Optional human review system  
+### ⭐ **Auto-Resolve — AI Ticket Triage & Smart Reply (Personal Project)**
+- GPT-4o + LangChain-based system  
+- Automated:
+  - Ticket classification
+  - Sentiment analysis
+  - Smart reply drafting  
+- Includes optional human review mode
 
 ---
 
-### 🌐 Sai Baba Website (Hostinger VPS)
-- Full site: Events, Donations, Live Aarti, Admin Panel  
-- Stack: React + Node.js + Express + Flask  
-- Hosted on **Hostinger VPS**
+### ⭐ **Sai Baba Temple Website (Hostinger VPS Deployment)**
+- Full website with:
+  - Donations  
+  - Live Aarti  
+  - Event management  
+  - Admin dashboard  
+- Built with **React + Node.js + Express + Flask**
+- Deployed on **Hostinger VPS**
 
 ---
 
-# 🧰 Tech Stack
-
-### Languages  
-`Python` • `JavaScript` • `SQL` • `Java`
-
-### AI & Automation  
-`OpenAI` • `LangChain` • `n8n` • `Cohere` • `Exotel`
-
-### Backend  
-`Node.js` • `Express.js` • `Flask` • `REST APIs`
-
-### Frontend  
-`React` • `Redux` • `Bootstrap` • `ApexCharts` • `ECharts` • `Velzon`
-
-### Databases  
-`SQL Server` • `MongoDB` • `Firebase` • `Supabase` • `Redis`
-
-### Cloud & DevOps  
-`AWS` • `Azure` • `Hostinger VPS` • `PM2` • `Docker`
+### ⭐ **Image Integrity Inspector**
+- CNN + ELA-based system for image tampering detection
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudhanshu1319&show_icons=true&theme=radical" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu1319&layout=compact&theme=radical" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudhanshu1319&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu1319&layout=compact&theme=tokyonight" height="160px"/>
 </p>
 
 ---
 
 # 🌐 Connect With Me
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=for-the-badge"></a>
-</p>
+📧 **Email:** sudhanshukichade@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/sudhanshu-khichade-605833230/
 
 ---
 
-<h3 align="center">✨ “I don’t just write code — I automate workflows & build intelligent systems.” ✨</h3>
+<h3 align="center">✨ “I build intelligent systems that automate workflows & scale effortlessly.” ✨</h3>
